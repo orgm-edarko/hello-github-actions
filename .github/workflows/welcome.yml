@@ -5,7 +5,7 @@ on:
 jobs:
   build:
     name: Post welcome comment
-    runs-on: ubuntu latest
+    runs-on: ubuntu-latest
     steps:
       - run: gh pr comment $PR_URL --body "Welcome to the repo!"
       # This is another go at this typed workflow 

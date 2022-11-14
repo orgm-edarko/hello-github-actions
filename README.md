@@ -20,7 +20,7 @@ _Create a GitHub Action and use it in a workflow._
 
 <!--step0
 
-✌Automation is key for streamlining your work processes, and [GitHub Actions](https://docs.github.com/actions) is the best way to supercharge your workflow.
+Automation is key for streamlining your work processes, and [GitHub Actions](https://docs.github.com/actions) is the best way to supercharge your workflow.
 
 - **Who is this for**: Developers, DevOps engineers, students, managers, teams, GitHub users.
 - **What you'll learn**: How to create workflow files, trigger workflows, and find workflow logs.
@@ -63,7 +63,7 @@ _Welcome to "Hello GitHub Actions"! :wave:_
 - To read more about workflows, jobs, and events, see "[Understanding GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)".
 - If you want to learn more about the `pull_request` event before using it, see "[pull_request](https://docs.github.com/en/developers/webhooks-and-events/webhooks/webhook-events-and-payloads#pull_request)".
 
-To get you started, we used actions to go ahead and made a branch and pull request for you.
+To get you started, we used actions to go ahead and made a branch and pull request for you👍.
 
 ### :keyboard: Activity: Create a workflow file
 
